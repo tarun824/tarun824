@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="285" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🔭 I’m currently working on Generative AI<br><br>👨‍💻 Portfolio https://tarun-r-s-portfolio.vercel.app<br><br>💬 Ask me about AI, ML and Full-Stack Development<br><br>📫 How to reach me tarun.rs82004@gmail.com
 
 
